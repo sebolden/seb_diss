@@ -1,0 +1,52 @@
+id,num_comments,name,subreddit,author,author_flair_text,distinguished,created,created_utc,approved_at_utc,title,selftext,link_flair_text,score,downs,ups,upvote_ratio,total_awards_received,num_crossposts,edited,stickied,locked,pinned,url,permalink
+39bpam,28165,t3_39bpam,announcements,reddit,,admin,1433959311,1433959311,,Removing harassing subreddits,"Today we are announcing a change in community management on reddit. Our goal is to enable as many people as possible to have authentic conversations and share ideas and content on an open platform. We want as little involvement as possible in managing these interactions but will be involved when needed to protect privacy and free expression, and to prevent harassment.
+
+It is not easy to balance these values, especially as the Internet evolves. We are learning and hopefully improving as we move forward. We want to be open about our involvement:
+We will ban subreddits that allow their communities to use the subreddit as a platform to [harass](http://www.redditblog.com/2015/05/promote-ideas-protect-people.html) individuals when moderators don’t take action. We’re banning behavior, not ideas.
+
+Today we are removing five subreddits that break our reddit rules based on their harassment of individuals. If a subreddit has been banned for harassment, you will see that in the ban notice. The only banned subreddit with more than 5,000 subscribers is r/fatpeoplehate.
+
+To report a subreddit for harassment, please email us at contact@reddit.com or [send a modmail](https://www.reddit.com/message/compose?to=%2Fr%2Freddit.com).
+
+We are continuing to add to our team to manage community issues, and we are making incremental changes over time. We want to make sure that the changes are working as intended and that we are incorporating your feedback when possible. Ultimately, we hope to have less involvement, but right now, we know we need to do better and to do more. 
+
+While we do not always agree with the content and views expressed on the site, we do protect the right of people to express their views and encourage actual conversations according to the [rules of reddit](https://www.reddit.com/rules/). 
+
+Thanks for working with us. Please keep the feedback coming.
+
+– Jessica (/u/5days), Ellen (/u/ekjp), Alexis (/u/kn0thing) &amp; the rest of team reddit
+
+**edit to include some faq's**
+
+[The list of subreddits that were banned.](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/cs20w2f)
+
+[Harassment vs. brigading.](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/cs25u4n)
+
+[What about other subreddits?](https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/cs23hqk?context=3)",,0,0,0,0.35,36,1,1433984593,FALSE,FALSE,FALSE,https://www.reddit.com/r/announcements/comments/39bpam/removing_harassing_subreddits/,/r/announcements/comments/39bpam/removing_harassing_subreddits/
+dbf9nj,10064,t3_dbf9nj,announcements,landoflobsters,,admin,1569865578,1569865578,,Changes to Our Policy Against Bullying and Harassment,"TL;DR is that we’re updating our harassment and bullying policy so we can be more responsive to your reports. 
+
+Hey everyone, 
+
+We wanted to let you know about some changes that we are making today to our [Content Policy](https://www.redditinc.com/policies/content-policy) regarding content that [threatens, harasses, or bullies](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-threaten-harass-or-bully), which you can read in full [here](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-threaten-harass-or-bully). 
+
+**Why are we doing this?**
+These changes, which were many months in the making, were primarily driven by feedback we received from you all, our users, indicating to us that there was a problem with the narrowness of our previous policy. Specifically, the old policy required a behavior to be “continued” and/or “systematic” for us to be able to take action against it as harassment. It also set a high bar of users fearing for their real-world safety to qualify, which we think is an incorrect calibration. Finally, it wasn’t clear that abuse toward both individuals and groups qualified under the rule. All these things meant that too often, instances of harassment and bullying, even egregious ones, were left unactioned. This was a bad user experience for you all, and frankly, it is something that made us feel not-great too. It was clearly a case of the letter of a rule not matching its spirit.
+
+The changes we’re making today are trying to better address that, as well as to give some meta-context about the spirit of this rule: chiefly, Reddit is a place for conversation. Thus, behavior whose core effect is to shut people out of that conversation through intimidation or abuse has no place on our platform. 
+
+We also hope that this change will take some of the burden off moderators, as it will expand our ability to take action at scale against content that the vast majority of subreddits already have their own rules against-- rules that we support and encourage.
+
+**How will these changes work in practice?**
+We all know that context is critically important here, and can be tricky, particularly when we’re talking about typed words on the internet. This is why we’re hoping today’s changes will help us better leverage human user reports. Where previously, we required the harassment victim to make the report to us directly, we’ll now be investigating reports from bystanders as well. We hope this will alleviate some of the burden on the harassee. 
+
+You should also know that we’ll also be harnessing some improved machine-learning tools to help us better sort and prioritize human user reports. But don’t worry, machines will only help us organize and prioritize user reports. They won’t be banning content or users on their own. A human user still has to report the content in order to surface it to us. Likewise, all actual decisions will still be made by a human admin. 
+
+As with any rule change, this will take some time to fully enforce. Our [response times have improved significantly since the start of the year](https://www.reddit.com/r/changelog/comments/becbnx/hey_rchangelog_were_rolling_out_some_new/), but we’re always striving to move faster. In the meantime, we encourage moderators to take this opportunity to examine their community rules and make sure that they are not creating an environment where bullying or harassment are tolerated or encouraged.
+
+**What should I do if I see content that I think breaks this rule?**
+As always, if you see or experience behavior that you believe is in violation of this rule, please use the report button [“This is abusive or harassing &gt; “It’s targeted harassment”] to let us know. If you believe an entire user account or subreddit is dedicated to harassing or bullying behavior against an individual or group, we want to know that too; [report it to us here](https://www.reddit.com/report).
+
+Thanks. As usual, we’ll hang around for a bit and answer questions.
+
+Edit: typo.
+*Edit 2: Thanks for your questions, we're signing off for now!*",,17351,0,17351,0.65,8,65,1569870392,FALSE,FALSE,FALSE,https://www.reddit.com/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/,/r/announcements/comments/dbf9nj/changes_to_our_policy_against_bullying_and/
